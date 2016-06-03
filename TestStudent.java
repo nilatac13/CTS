@@ -20,7 +20,8 @@ import exceptions.ExceptionStringLengthTooShort;
 
 public class TestStudent {
 
-	private Student myStudent;
+	//v2
+    private Student myStudent;
     private static final String LAST_NAME = "Mocanita";
     private static final  String SECOND_NAME = "Catalin";
     private static final  String EMAIL_ADDRESS ="moc.catalin@yahoo.com";
